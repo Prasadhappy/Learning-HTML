@@ -1,0 +1,22 @@
+HTML
+
+Proper structure to write a HTML code:
+
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body></body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>This is my first web page</title>
+    </head>
+
+    <body>
+        <head>this is the new project</head>  
+    </body>
+</html>
